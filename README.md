@@ -1,2 +1,2 @@
-# precursos-henry
-contexto repositorio
+Este proyecto es una prueba de como crear un repositorio
+:)
